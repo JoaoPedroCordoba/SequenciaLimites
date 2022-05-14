@@ -1,0 +1,2 @@
+# SequenciaLimites
+Exercício Sequencia Limites
